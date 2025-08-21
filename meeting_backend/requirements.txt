@@ -1,0 +1,9 @@
+flask
+flask_restful
+requests
+whisperx
+torch
+firebase_admin
+datetime
+python-dotenv
+google-genai
